@@ -1,6 +1,6 @@
 # Maruti Suzuki Innovation Hackathon
 # Mobility for Bharat: Resilient Shared Energy Networks in NE India
-
+This Pitch deck is used in the finals of the Maruti Suzuki Innovation Hackathon, which was evaluated by industry experts from IIM Calcutta and Maruti Suzuki India Limited.
 > **Overview:** A strategic blueprint and pitch summary for deploying low-cost, flood-resilient, and hill-capable shared mobility solutions in Guwahati, Assam. This repository outlines the transition from rigid EV charging infrastructure to a modular, dual-vector swapping model (Li-ion + Hydrogen) designed for the global south.
 
 ## The Problem: The "Mobility Trilemma"
@@ -11,7 +11,7 @@ Metropolitan mobility models (designed for Delhi or Mumbai) fail in Northeastern
 3. **Infrastructure & Regulatory Gaps:** Grid power is frequently cut during floods for safety. On the regulatory front, the Regional Transport Authority (RTA) has prohibited slow-moving e-rickshaws on 56 major thoroughfares to ease congestion, restricting them strictly to 31 designated routes for last-mile connectivity. This necessitates a highly optimized, targeted fleet strategy.
 
 ## Solution Architecture: "Assam Shakti" Dual-Vector Mesh
-A one-size-fits-all approach does not work. We propose a hybrid Hub-and-Spoke energy mesh decoupling the battery/fuel from the vehicle.
+A one-size-fits-all approach does not work. We propose a hybrid Hub-and-Spoke energy mesh, decoupling the battery/fuel from the vehicle.
 
 ### Vector A: Urban Core (Li-ion Swapping)
 *   **Target:** Flat city basin, short commutes, restricted 31 designated last-mile routes.
@@ -26,7 +26,7 @@ A one-size-fits-all approach does not work. We propose a hybrid Hub-and-Spoke en
 
 ## The Hydrogen Supply Chain Integration
 To overcome the high upfront cost of Green Hydrogen, this project leverages local industrial assets in Assam:
-* **Local Production:** NeuEN Green Energy is establishing a 10,000 Metric Tonnes Per Annum (MTPA) green hydrogen generation unit at the Numaligarh Refinery (NRL) on a build-own-operate basis. Slated to be operational by 2028, this will secure a massive, localized green hydrogen supply chain.
+* **Local Production:** NeuEN Green Energy is establishing a 10,000 metric tonnes per annum (MTPA) green hydrogen generation unit at the Numaligarh Refinery (NRL) on a build-own-operate basis. Slated to be operational by 2028, this will secure a massive, localized green hydrogen supply chain.
 * **State Subsidies:** Assam's Clean Energy Policy offers a 100% electricity duty exemption for green hydrogen production and a 30% capital subsidy, driving the TCO (Total Cost of Ownership) towards the target of <₹1.00/km by 2030.
 
 ## Impact & Economics
